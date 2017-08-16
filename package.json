@@ -1,6 +1,6 @@
 {
   "name": "hookding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Coding Webhook to DingDing",
   "main": "index.js",
   "directories": {
