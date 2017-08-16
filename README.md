@@ -5,13 +5,13 @@
 
 ## 安装
 
-`npm i --save `
+`npm i --save hookding`
 
 ## 使用方法
 
 
 ```js
-    const CWD = require('');
+    const CWD = require('hookding');
 
     app.post('/router', CWD());
 
