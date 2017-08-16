@@ -1,6 +1,9 @@
 
 # CWD - Coding Webhook DingDing
 
+> ![](img/hookding.gif)
+
+
 用于实现 Coding 上面仓库变化后,把消息发送到钉钉上;利用钉钉的机器人和 Coding 的 Webhook 相互配合实现,需要有服务器;
 
 ## 安装
