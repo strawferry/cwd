@@ -1,0 +1,30 @@
+{
+  "name": "cwd",
+  "version": "0.0.1",
+  "description": "Coding Webhook to DingDing",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example/index.js"
+  },
+  "keywords": ["coding", "webhook", "dingding", "机器人"],
+  "author": "ferryvip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strawferry/cwd/issues"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strawferry/cwd.git"
+  }
+}
